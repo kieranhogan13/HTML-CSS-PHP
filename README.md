@@ -1,4 +1,4 @@
-PHP
+HTML-CSS-PHP
 ===
 
-This repository includes PHP projects and programs I have worked on.
+This repository includes HTML, CSS and PHP projects and programs I have worked on.
